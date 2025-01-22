@@ -8,6 +8,9 @@ Este projeto é um site desenvolvido com base em uma imagem humorística sobre s
 - Uso de imagens
 - Estruturação HTML semântica
 
+Este projeto foi desenvolvido durante meus estudos no curso da Alura:
+- HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
+
 ## Visualização
 
 Você pode ver o site em funcionamento através do GitHub Pages:
