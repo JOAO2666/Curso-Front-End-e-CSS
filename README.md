@@ -1,6 +1,7 @@
 # Curso Front-End e CSS
 
-Este projeto é um site desenvolvido com base em uma imagem humorística sobre ser um especialista em CSS. O site demonstra diferentes técnicas e habilidades de estilização CSS, incluindo:
+Este projeto foi desenvolvido durante meus estudos no curso da Alura:
+- HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
 
 - Layouts responsivos
 - Estilização de elementos
@@ -8,8 +9,6 @@ Este projeto é um site desenvolvido com base em uma imagem humorística sobre s
 - Uso de imagens
 - Estruturação HTML semântica
 
-Este projeto foi desenvolvido durante meus estudos no curso da Alura:
-- HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
 
 ## Visualização
 
